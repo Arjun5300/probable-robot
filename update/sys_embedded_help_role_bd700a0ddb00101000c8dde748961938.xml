@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_325100_innovate.my_custom_table_user" name="x_325100_innovate.my_custom_table_user">f5704281db00101000c8dde748961908</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-06 19:04:49</sys_created_on>
+        <sys_id>bd700a0ddb00101000c8dde748961938</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f5704281db00101000c8dde748961908</sys_name>
+        <sys_package display_value="Innovate" source="x_325100_innovate">46bdf589db00101000c8dde74896191d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">46bdf589db00101000c8dde74896191d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_bd700a0ddb00101000c8dde748961938</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-06 19:04:49</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
